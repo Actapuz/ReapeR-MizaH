@@ -1,5 +1,61 @@
 # ReapeR-MizaH
 ![banner-logo](https://github.com/user-attachments/assets/a71e4319-bc97-447c-83b7-815e5ab9837d)
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ReapeR Quiz</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #111;
+      color: #eee;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: url("banner-logo.jpg") no-repeat center center;
+      background-size: cover;
+      height: 300px;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #ff6f61;
+    }
+    form {
+      margin-top: 20px;
+    }
+    .question {
+      margin-bottom: 20px;
+    }
+    .question h3 {
+      color: #ffcc00;
+    }
+    .result {
+      margin-top: 30px;
+      font-weight: bold;
+      font-size: 1.2em;
+      text-align: center;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #ff6f61;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #ff3b2e;
+    }
+  </style>
+</head>
 <body>
   <header></header>
   <div class="container">
@@ -102,7 +158,6 @@
     }
   </script>
 </body>
-body.dark-mode {
-    background-color: #121212;
-    color: #ffffff;
-    
+</html>
+
+   
