@@ -31,7 +31,7 @@
       margin-top: 20px;
     }
     .question {
-      margin-bottom: 20px;
+      margin-bottom: 30px;
     }
     .question h3 {
       color: #ffcc00;
