@@ -62,8 +62,8 @@
         <h3>1. Bu sunucunun kurulma tarihi nedir?</h3>
         <label><input type="radio" name="q1" value="0" /> a) 23 Nisan 1923</label><br />
         <label><input type="radio" name="q1" value="0" /> b) 7 Eylül 2017</label><br />
-        <label><input type="radio" name="q1" value="10" /> c) 1 Mayıs 2018</label><br />
-        <label><input type="radio" name="q1" value="0" /> d) 25 Şubat 2019</label>
+        <label><input type="radio" name="q1" value="0" /> c) 1 Mayıs 2018</label><br />
+        <label><input type="radio" name="q1" value="10" /> d) 25 Şubat 2019</label>
       </div>
       <div class="question">
         <h3>2. Daha önce yönetimde yer almış fakat sonrasında yollarını ayırmış üyelere hangi rol verilir?</h3>
@@ -81,8 +81,8 @@
       </div>
       <div class="question">
         <h3>4. Güncel olarak ReapeR yönetim kadrosunda kaç kişi bulunmaktadır?</h3>
-        <label><input type="radio" name="q4" value="0" /> a) 9</label><br />
-        <label><input type="radio" name="q4" value="10" /> b) 4</label><br />
+        <label><input type="radio" name="q4" value="9" /> a) 9</label><br />
+        <label><input type="radio" name="q4" value="0" /> b) 4</label><br />
         <label><input type="radio" name="q4" value="0" /> c) 5</label><br />
         <label><input type="radio" name="q4" value="0" /> d) 7</label>
       </div>
@@ -118,8 +118,8 @@
         <h3>9. Anket kanallarında son 7 gün içerisinde en aktif ilk 3 üyeye verilen rol nedir?</h3>
         <label><input type="radio" name="q9" value="0" /> a) Forum Yerlisi</label><br />
         <label><input type="radio" name="q9" value="0" /> b) Kaiteki</label><br />
-        <label><input type="radio" name="q9" value="10" /> c) Pollster</label><br />
-        <label><input type="radio" name="q9" value="0" /> d) Seçkin Yorumcu</label>
+        <label><input type="radio" name="q9" value="0" /> c) Pollster</label><br />
+        <label><input type="radio" name="q9" value="10" /> d) Seçkin Yorumcu</label>
       </div>
       <div class="question">
         <h3>10. ReapeR Elite rolünü almak için aşağıdakilerden hangisi gerekli <u>değildir</u>?</h3>
