@@ -1,4 +1,6 @@
 # ReapeR-MizaH
+![banner-logo](https://github.com/user-attachments/assets/a71e4319-bc97-447c-83b7-815e5ab9837d)
+
 <html lang="tr">
 <head>
   <meta charset="UTF-8" />
