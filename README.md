@@ -102,4 +102,7 @@
     }
   </script>
 </body>
-</html>
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+    
