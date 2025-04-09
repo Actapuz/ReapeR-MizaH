@@ -81,7 +81,7 @@
       </div>
       <div class="question">
         <h3>4. Güncel olarak ReapeR yönetim kadrosunda kaç kişi bulunmaktadır?</h3>
-        <label><input type="radio" name="q4" value="9" /> a) 9</label><br />
+        <label><input type="radio" name="q4" value="10" /> a) 9</label><br />
         <label><input type="radio" name="q4" value="0" /> b) 4</label><br />
         <label><input type="radio" name="q4" value="0" /> c) 5</label><br />
         <label><input type="radio" name="q4" value="0" /> d) 7</label>
@@ -146,9 +146,9 @@
       if (score >= 85) {
         message = `🔱 <b>${score} puan</b>: Gerçek bir <span style="color: #ffcc00">ReapeRist</span>!<br>Sen bu sunucunun hem hafızası hem ruhusun! Osman bile seninle gurur duyar.`;
       } else if (score >= 65) {
-        message = `✨ <b>${score} puan</b>: Takılıyorsun ama biraz daha aktif olmalısın!<br>Seslere gir, emote spamle... ReapeR seni bekliyor.`;
+        message = `✨ <b>${score} puan</b>: Takılıyorsun ama biraz daha aktif olmalısın!<br>Seslere gir, muhabbet et, zaptoya sataş... ReapeR seni bekliyor.`;
       } else {
-        message = `🌱 <b>${score} puan</b>: Henüz bir ReapeRist sayılmazsın ama...<br>Potansiyel var! Biraz daha takıl, yönetim gözünü dikmiş olabilir.`;
+        message = `🌱 <b>${score} puan</b>: Henüz bir ReapeRist sayılmazsın ama...<br>Potansiyel var! Biraz daha aktif takıl, kim bilir belki bir gün sen de yönetimin bir parçası olursun!`;
       }
       document.getElementById("result").innerHTML = message;
     }
