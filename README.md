@@ -77,7 +77,7 @@
       </div>
       <div class="question">
         <h3>3. ReapeR'da Owner'dan sonra gelen en yüksek yetki rolü hangisidir?</h3>
-        <label><input type="radio" name="q3" value="0" /> a) College</label><br />
+        <label><input type="radio" name="q3" value="0" /> a) Colleague</label><br />
         <label><input type="radio" name="q3" value="0" /> b) Admin</label><br />
         <label><input type="radio" name="q3" value="0" /> c) Manager</label><br />
         <label><input type="radio" name="q3" value="10" /> d) Mugen no Kage</label>
