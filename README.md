@@ -13,10 +13,7 @@
       margin: 0;
       padding: 0;
     }
-    header {
-      background: url("banner-logo.jpg") no-repeat center center;
-      background-size: cover;
-      height: 300px;
+  
     }
     .container {
       max-width: 800px;
