@@ -98,7 +98,7 @@
         <label><input type="radio" name="q6" value="0" /> a) 2 hafta</label><br />
         <label><input type="radio" name="q6" value="0" /> b) 1 hafta</label><br />
         <label><input type="radio" name="q6" value="0" /> c) 8 saat</label><br />
-        <label><input type="radio" name="q6" value="10" /> d) 5 saat</label>
+        <label><input type="radio" name="q6" value="10" /> d) 4 saat</label>
       </div>
       <div class="question">
         <h3>7. ReapeR Moments için mizahi editler hazırlayan üyelere hangi rol verilir?</h3>
